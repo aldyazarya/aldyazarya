@@ -28,7 +28,7 @@
 
 ***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ Currently based in **Jakarta** - **Indonesia**. <br>
 ✔ I’m currently Developing Online Media **Kompas Gramedia - Grid Network**<br>
 ✔ I’m currently learning **TypeScript**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
@@ -50,8 +50,9 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
   <code> <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
+  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"> </code>
+  <code> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> </code>
+  <code> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png"> </code>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
